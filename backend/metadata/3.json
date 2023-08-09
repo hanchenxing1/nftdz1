@@ -1,0 +1,14 @@
+{
+    "description": "Friendly Murong Family Character that battles in Kingdom of Yan.", 
+    "external_url": "https://github.com/robertpengcode/Blockchain_CardGame", 
+    "image": "ipfs://QmVoPj57spk1PxLyFU4NLXrwDLqWgKLzP9Q2meVWwvY711", 
+    "name": "Henley",
+    "attributes": [ {
+      "trait_type": "Attack", 
+      "value": 7
+    }, 
+    {
+      "trait_type": "Defense", 
+      "value": 3
+    } ]
+}

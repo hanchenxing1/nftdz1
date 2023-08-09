@@ -1,0 +1,14 @@
+{
+    "description": "Friendly Murong Family Character that battles in Kingdom of Yan.", 
+    "external_url": "https://github.com/robertpengcode/Blockchain_CardGame", 
+    "image": "ipfs://QmbhMq4HCz6ZzLkDVEZt3n5cH2gsyZvCCc9tfrYmxTEnuG",
+    "name": "Sophie",
+    "attributes": [ {
+      "trait_type": "Attack", 
+      "value": 5
+    }, 
+    {
+      "trait_type": "Defense", 
+      "value": 5
+    } ]
+}

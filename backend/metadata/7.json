@@ -1,0 +1,14 @@
+{
+    "description": "Friendly Murong Family Character that battles in Kingdom of Yan.", 
+    "external_url": "https://github.com/robertpengcode/Blockchain_CardGame", 
+    "image": "ipfs://QmUZnsypsrEySKdjVRVWS1TCvBfgnZXEcL2S1LuRkm41Gw",
+    "name": "Steve",
+    "attributes": [ {
+      "trait_type": "Attack", 
+      "value": 5
+    }, 
+    {
+      "trait_type": "Defense", 
+      "value": 5
+    } ]
+}
